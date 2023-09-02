@@ -1,0 +1,18 @@
+[tool.poetry]
+name = "alsec"
+version = "0.1.0"
+description = "A simple library to parse AWS Amazon Linux Security Advisory (ALSA)"
+authors = ["renato"]
+license = "GNU GPLv3"
+readme = "README.md"
+
+keywords = ["alas", "AWS Linux Security Advisory", "Amazon", "AWS", "security"]
+
+[tool.poetry.dependencies]
+python = "^3.11"
+feedparser = "^6.0.10"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"

@@ -1,0 +1,4 @@
+[feed]
+alasUrl = "https://alas.aws.amazon.com/alas.rss"
+alas2Url = "https://alas.aws.amazon.com/AL2/alas.rss"
+alas2023Url = "https://alas.aws.amazon.com/AL2023/alas.rss"
